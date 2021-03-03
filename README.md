@@ -2,6 +2,8 @@
 
 Welcome to SAN ANDREAS!!
 <div align="center"><h1>CLONE THIS REPO AND OPEN INDEX.html</h1></div>
+Fix the image links for yourself from assets folder
+
 
 TILL THEN ENJOY THE THEME SONG:-
 
