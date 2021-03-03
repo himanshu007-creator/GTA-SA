@@ -1,6 +1,6 @@
 # GTA-SA
-Welcome to SAN ANDREAS!! 
-WORKING ON IT.
+Welcome to SAN ANDREAS!!
+<div align="center"><h1>CLONE THIS REPO AND OPEN INDEX.html</h1></div>
 
 TILL THEN ENJOY THE THEME SONG:-
 
