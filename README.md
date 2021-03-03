@@ -1,4 +1,5 @@
-# GTA-SA
+<div align="centre"><h1><img src="assets/favicon.ico" height="100px" width="100px" >&nbsp;GTA-SA</h1>
+
 Welcome to SAN ANDREAS!!
 <div align="center"><h1>CLONE THIS REPO AND OPEN INDEX.html</h1></div>
 
